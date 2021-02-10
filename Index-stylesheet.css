@@ -1,0 +1,21 @@
+
+* {
+    font-family: inherit;
+    font-size: 36px;
+    background-color: lightgray;
+    }
+
+input, textarea {
+    background-color: white;
+    text-align: left;}
+
+.tekst {
+    border: solid 1px black;
+    border-radius: 0.5em;
+    width: 1000px;
+    background-color: white;
+    text-align: center;
+    margin: auto;}
+
+label {
+        font-size: 50px;}
